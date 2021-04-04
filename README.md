@@ -1,52 +1,51 @@
-# DLsite
-## Fastly cdn.activity.mama.cn / 网宿 download.sangfor.com.cn
-	125.73.209.65   trial.dlsite.com
-	14.0.43.157     trial.dlsite.com
-	210.61.180.219  trial.dlsite.com
-	14.0.43.157     download.dlsite.com
-	125.73.209.65   download.dlsite.com
-	210.61.180.219  download.dlsite.com
-	125.73.209.65   img.dlsite.jp
-	14.0.43.157     img.dlsite.jp
-	210.61.180.219  img.dlsite.jp
-	125.73.209.65   media.dlsite.com
-	14.0.43.157     media.dlsite.com
-	210.61.180.219  media.dlsite.com
-	125.73.209.65   play.dl.dlsite.com
-	14.0.43.157     play.dl.dlsite.com
-	210.61.180.219  play.dl.dlsite.com
-	125.73.209.65   media.ci-en.jp
-	14.0.43.157     media.ci-en.jp
-	210.61.180.219  media.ci-en.jp
-	125.73.209.65   media.stg.ci-en.jp
-	14.0.43.157     media.stg.ci-en.jp
-	210.61.180.219  media.stg.ci-en.jp
-	125.73.209.65   www.nijiyome.com
-	14.0.43.157     www.nijiyome.com
-	210.61.180.219  www.nijiyome.com
-	125.73.209.65   www.nijiyome.jp
-	14.0.43.157     www.nijiyome.jp
-	210.61.180.219  www.nijiyome.jp
-	125.73.209.65   file.chobit.cc
-	14.0.43.157     file.chobit.cc
-	210.61.180.219  file.chobit.cc
-	125.73.209.65   img.chobit.cc
-	14.0.43.157     img.chobit.cc
-	210.61.180.219  img.chobit.cc
-	151.101.166.217 www.dlsite.com
-	125.73.209.65   www.dlsite.com
-	14.0.43.157     www.dlsite.com
-	54.250.55.231   play.dlsite.com
-	54.64.221.230   play.dlsite.com
-	13.112.185.110  login.dlsite.com
-	13.115.45.176   login.dlsite.com
-## w2.shared.global.fastly.net
-	151.101.166.217 www.cdn.dlsite.com
-	151.101.234.217 www.cdn.dlsite.com
-	151.101.110.217 www.cdn.dlsite.com
-	151.101.166.217 ssl.dlsite.com
-	151.101.234.217 ssl.dlsite.com
-	151.101.110.217 ssl.dlsite.com
-	151.101.166.217 ssl.cdn.dlsite.com
-	151.101.234.217 ssl.cdn.dlsite.com
-	151.101.110.217 ssl.cdn.dlsite.com
+# DLSite
+## download.sangfor.com.cn
+14.21.76.73 trial.dlsite.com
+14.21.76.73 img.dlsite.jp
+14.21.76.73 media.dlsite.com
+14.21.76.73 play.dl.dlsite.com
+14.21.76.73 media.ci-en.jp
+14.21.76.73 media.stg.ci-en.jp
+14.21.76.73 file.chobit.cc
+14.21.76.73 img.chobit.cc
+## download.dlsite.com.wtxcdn.com
+14.0.44.203 download.dlsite.com
+14.0.44.196 download.dlsite.com
+## j.sni.global.fastly.net
+151.101.2.132 ssl.dlsite.com
+151.101.66.132 ssl.dlsite.com
+151.101.130.132 ssl.dlsite.com
+151.101.194.132 ssl.dlsite.com
+151.101.2.132 www.dlsite.com
+151.101.66.132 www.dlsite.com
+151.101.130.132 www.dlsite.com
+151.101.194.132 www.dlsite.com
+151.101.2.132 www.nijiyome.com
+151.101.66.132 www.nijiyome.com
+151.101.130.132 www.nijiyome.com
+151.101.194.132 www.nijiyome.com
+151.101.2.132 www.nijiyome.jp
+151.101.66.132 www.nijiyome.jp
+151.101.130.132 www.nijiyome.jp
+151.101.194.132 www.nijiyome.jp
+151.101.2.132 download.dlsite.com
+151.101.66.132 download.dlsite.com
+151.101.130.132 download.dlsite.com
+151.101.194.132 download.dlsite.com
+151.101.78.132 ssl.dlsite.com
+151.101.78.132 www.dlsite.com
+151.101.78.132 www.nijiyome.com
+151.101.78.132 www.nijiyome.jp
+151.101.78.132 download.dlsite.com
+151.101.230.132 ssl.dlsite.com
+151.101.230.132 www.dlsite.com
+151.101.230.132 www.nijiyome.com
+151.101.230.132 www.nijiyome.jp
+151.101.230.132 download.dlsite.com
+## play.dlsite.com
+54.64.138.132 play.dlsite.com
+54.65.219.246 play.dlsite.com
+54.168.144.173 play.dlsite.com
+## login.dlsite.com
+54.64.237.76 login.dlsite.com
+35.73.75.113 login.dlsite.com
